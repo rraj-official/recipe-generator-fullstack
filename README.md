@@ -1,4 +1,4 @@
 # Recipe Generator Website 
-## -complete with frontend, backend and mysql database
+## Tech Stack: React, TailwindCSS, NodeJS, Express, MySQL
 
 Link: https://recipe-generator-fullstack.vercel.app/
