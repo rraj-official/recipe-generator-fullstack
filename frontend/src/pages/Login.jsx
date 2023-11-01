@@ -26,7 +26,7 @@ const Login = (props) => {
         const passKey="SumanDaddyOP";
         if (!(usernameLog == "admin" && passwordLog == "admin123")) {
             // For normal users:
-            Axios.post('https://13.53.126.71:3001/login', {
+            Axios.post('http://13.53.126.71:3001/login', {
                 username: usernameLog,
                 password: passwordLog,
             })
