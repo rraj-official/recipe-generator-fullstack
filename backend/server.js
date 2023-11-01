@@ -16,9 +16,9 @@ app.use(cors());
 // });
 
 const db = mysql.createConnection({
-    user: "root",
+    user: "node",
     host: "localhost",
-    password: "rohit.raj@2201",
+    password: "server@123",
     database: "registration_login_db"
 });
 
